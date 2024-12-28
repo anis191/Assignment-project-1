@@ -1,0 +1,24 @@
+*{
+    background-color: #1A1A1A;
+    color: white;
+}
+.clr{
+    color: #00FFFF;
+}
+.menu li{
+    list-style: none;
+}
+.icon{
+    color: black;
+}
+header .navbar{
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+header .navbar .menu li:hover{
+    color: blue;
+    cursor: pointer;
+}
+.banner .text h1{
+    font-size: 3rem;
+}
