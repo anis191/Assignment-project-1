@@ -22,3 +22,6 @@ header .navbar .menu li:hover{
 .banner .text h1{
     font-size: 3rem;
 }
+.project1, .project2{
+    border: 1px solid white;
+}
