@@ -24,4 +24,15 @@ header .navbar .menu li:hover{
 }
 .project1, .project2{
     border: 1px solid white;
+    border-radius: 5px;
+}
+main .Contact .contactform{
+    border: 1px solid white;
+    box-shadow: +5px +5px 5px gray;
+}
+.Contact form button{
+    background-color: gray;
+}
+.Contact form button:hover{
+    background-color: rgba(0, 0, 255, 0.3);
 }
